@@ -1,0 +1,1 @@
+C:\Users\Rumen Vasilev\Documents\Visual Studio 2013\Projects\DBApssExam\01EntityFrameworkMapping\bin\Debug\01EntityFrameworkMapping.exe.config

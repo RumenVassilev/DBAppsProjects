@@ -1,0 +1,1 @@
+C:\Users\Rumen Vasilev\Documents\Visual Studio 2013\Projects\DBApssExam\04ImportUsersAndGamesFromXML\bin\Debug\04ImportUsersAndGamesFromXML.exe.config
